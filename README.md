@@ -2,7 +2,7 @@
 
 Group chat application made in flutter
 
-## Stacks used
+## Methods used
 
 <ul>
 <li>animation for text
